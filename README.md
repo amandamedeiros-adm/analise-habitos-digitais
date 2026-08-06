@@ -17,19 +17,27 @@ A pergunta central da pesquisa foi:
 ---
 
 ## 🗂️ Estrutura do Repositório
+
+```
 analise-habitos-digitais/
-├── README.md # Documentação principal
+│
+├── README.md                       # Documentação principal do projeto
+│
 ├── dados/
-│ └── pesquisa_habitos.csv # Dados brutos da pesquisa
+│   └── pesquisa_habitos.csv        # Dados brutos da pesquisa
+│
 ├── sql/
-│ ├── 01_criar_tabela.sql # Criação da tabela no SQL Server
-│ ├── 02_inserir_dados.sql # Inserção dos dados
-│ └── 03_analise.sql # Análise descritiva e regressão
+│   ├── 01_criar_tabela.sql         # Criação da tabela no SQL Server
+│   ├── 02_inserir_dados.sql        # Inserção dos dados
+│   └── 03_analise_estatistica.sql  # Análise descritiva e regressão
+│
 ├── powerbi/
-│ └── dashboard_habitos.pbix # Dashboard interativo
+│   └── dashboard_habitos.pbix      # Dashboard interativo no Power BI
+│
 └── imagens/
-├── boxplot.png # Box plots das variáveis
-└── dispersao.png # Diagrama de dispersão com reta de regressão
+    ├── boxplot.png                 # Box plots das variáveis
+    └── dispersao.png               # Diagrama de dispersão com reta de regressão
+```
 
 
 ---
