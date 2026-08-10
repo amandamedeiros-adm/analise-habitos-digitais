@@ -107,9 +107,23 @@ analise-habitos-digitais/
 
 ![Diagrama de Dispersão](imagens/dispersao.png)
 
+## 📊 Visualizações
+
 ### Box Plot das Variáveis
 
-![Box Plot](imagens/boxplot.png)
+![Box Plot](imagens/boxplot_pesquisa_hab.png)
+
+*Gráfico 1: Distribuição das horas de uso do celular e da percepção de qualidade de vida.*
+
+O gráfico box plot acima mostra a distribuição das respostas para as variáveis "Horas de Uso do Celular" e "Percepção de Qualidade de Vida".
+
+A linha central de cada caixa representa a **mediana** (valor do meio). A caixa, por sua vez, contém os 50% dos dados centrais (do percentil 25 ao 75). 
+
+**Principais observações:**
+- A **mediana de horas de celular** é de aproximadamente **5 horas por dia**, com 50% dos respondentes variando entre 3 e 8 horas.
+- A **mediana da qualidade de vida** é **4** (em uma escala de 0 a 10), com a maioria das notas concentradas entre 2 e 7.
+
+Isso indica que, embora a maioria das pessoas use o celular por um período considerável (entre 3 e 8 horas), a percepção geral de qualidade de vida se mantém em um patamar baixo a moderado, sugerindo que outros fatores podem estar influenciando essa percepção mais do que o simples tempo de tela.
 
 ### Dashboard Interativo (Power BI)
 
