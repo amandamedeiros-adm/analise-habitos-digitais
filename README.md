@@ -103,10 +103,6 @@ analise-habitos-digitais/
 
 ## 🖼️ Visualizações
 
-### Diagrama de Dispersão com Reta de Regressão
-
-![Diagrama de Dispersão](imagens/dispersao.png)
-
 ## 📊 Visualizações
 
 ### Box Plot das Variáveis
@@ -129,6 +125,18 @@ Isso indica que, embora a maioria das pessoas use o celular por um período cons
 
 ![Dashboard](imagens/dashboard.png)
 
+### Diagrama de Dispersão com Reta de Regressão
+
+![Dispersão](imagens/dispersao_pesquisa_hab.png)
+
+*Gráfico 2: Relação entre horas de uso do celular e percepção de qualidade de vida.*
+
+O diagrama de dispersão mostra a relação entre as duas variáveis para cada respondente, com a reta de regressão indicando a tendência geral.
+
+**Observações:**
+- A equação da regressão estimada é: `Qualidade de Vida = 3,3801 + 0,0707 × (Horas de Celular)`.
+- O coeficiente de determinação (R²) é de **0,0089**, indicando que menos de 1% da variação na qualidade de vida é explicada pelas horas de celular.
+- A correlação é muito fraca (R = 0,094), sugerindo que, para esta amostra, o tempo de uso do celular não é um bom preditor da qualidade de vida percebida.
 ---
 
 ## 🔍 Conclusão
