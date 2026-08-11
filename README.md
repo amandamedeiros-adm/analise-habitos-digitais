@@ -2,7 +2,7 @@
 
 **Autora:** Amanda Medeiros  
 **Data:** Agosto/2026  
-**Ferramentas:** SQL (SQL Server), Power BI, GitHub  
+**Ferramentas:** SQL (SQL Server), Power BI, Excel, GitHub
 
 ---
 
