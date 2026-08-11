@@ -35,8 +35,8 @@ analise-habitos-digitais/
 │   └── dashboard_habitos.pbix      # Dashboard interativo no Power BI
 │
 └── imagens/
-    ├── boxplot.png                 # Box plots das variáveis
-    └── dispersao.png               # Diagrama de dispersão com reta de regressão
+    ├── boxplot_pesquisa_hab.png                 # Box plots das variáveis
+    └── dispersão_pesquisa_hab.png               # Diagrama de dispersão com reta de regressão
 ```
 
 
