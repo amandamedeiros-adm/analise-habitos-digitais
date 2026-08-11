@@ -54,7 +54,8 @@ analise-habitos-digitais/
 ### Ferramentas Utilizadas
 
 - **SQL Server Management Studio (SSMS)**: Criação da tabela, inserção dos dados e consultas para análise descritiva e regressão.
-- **Power BI**: Criação de dashboards e visualizações interativas (box plot, diagrama de dispersão, tabelas).
+- **Power BI**: Criação de dashboards e visualizações interativas.
+- **Excel**: Gráfico box plot e de dispersão.
 - **GitHub**: Versionamento e documentação do projeto.
 
 ---
