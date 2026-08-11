@@ -148,6 +148,8 @@ Este projeto demonstrou minha capacidade de:
 - Criar visualizações interativas no Power BI;
 - Documentar e comunicar resultados de forma clara e acessível.
 
+- Vale destacar que os dados foram submetidos a um processo de limpeza, com a correção de dois outliers identificados (valores 200 e 30, corrigidos para 2 e 3, respectivamente). Essa correção foi essencial para que os resultados refletissem com mais precisão o comportamento da amostra.
+
 ---
 
 ## 🚀 Próximos Passos
