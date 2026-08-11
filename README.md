@@ -135,7 +135,7 @@ O diagrama de dispersão mostra a relação entre as duas variáveis para cada r
 - A equação da regressão estimada é: `Qualidade de Vida = 3,3801 + 0,0707 × (Horas de Celular)`.
 - O coeficiente de determinação (R²) é de **0,0089**, indicando que menos de 1% da variação na qualidade de vida é explicada pelas horas de celular.
 - A correlação é muito fraca (R = 0,094), sugerindo que, para esta amostra, o tempo de uso do celular não é um bom preditor da qualidade de vida percebida.
----
+- A dispersão dos pontos ao redor da reta de regressão reforça essa conclusão: não há um padrão claro de relação linear entre as variáveis.
 
 ## 🔍 Conclusão
 
