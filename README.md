@@ -103,8 +103,6 @@ analise-habitos-digitais/
 
 ## 🖼️ Visualizações
 
-## 📊 Visualizações
-
 ### Box Plot das Variáveis
 
 ![Box Plot](imagens/boxplot_pesquisa_hab.png)
@@ -127,7 +125,7 @@ Isso indica que, embora a maioria das pessoas use o celular por um período cons
 
 ### Diagrama de Dispersão com Reta de Regressão
 
-![Dispersão](imagens/dispersao_pesquisa_hab.png)
+![Dispersão](imagens/dispersão_pesquisa_hab.png)
 
 *Gráfico 2: Relação entre horas de uso do celular e percepção de qualidade de vida.*
 
