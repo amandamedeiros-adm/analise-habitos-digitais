@@ -8,6 +8,16 @@
 
 ## 📌 Sobre o Projeto
 
+## 🚧 Status do Projeto
+
+- ✅ Coleta e limpeza dos dados (SQL)
+- ✅ Análise descritiva e regressão (SQL/Excel)
+- ✅ Box plot e diagrama de dispersão (Excel)
+- ⬜ Dashboard interativo (Power BI) – **em andamento**
+- ⬜ Publicação do dashboard (Power BI Service)
+
+**Previsão de conclusão:** [31 de agosto de 2026]
+
 Este projeto tem como objetivo analisar a relação entre **horas de uso do celular** e a **percepção de qualidade de vida** de 50 respondentes. Os dados foram coletados por meio de um questionário aplicado no primeiro semestre de 2026, como parte das atividades da disciplina de **Análise Estatística** no mestrado em Administração da FEI (linha de pesquisa: Gestão da Tecnologia e Inovação).
 
 A pergunta central da pesquisa foi:
