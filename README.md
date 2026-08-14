@@ -8,7 +8,7 @@
 
 ## 📌 Sobre o Projeto
 
-🚧 Status do Projeto
+🚧 Status
 
 - ✅ Coleta e limpeza dos dados (SQL)
 - ✅ Análise descritiva e regressão (SQL/Excel)
